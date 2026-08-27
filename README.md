@@ -30,13 +30,12 @@ This project demonstrates how to extend Power BI capabilities using Python for m
 
 ->scikit-learn (Machine Learning / Anomaly Detection)
 
-## *📂 Project Structure* ##
+## 📂 Project Structure
 
-->Penguin_Analytics.pbix: The main Power BI project file.
+- `Penguin Population & Health Analytics.pbix` — main Power BI report (Python scripts are embedded inside the visuals)
+- `Dashboard preview.png` — dashboard screenshot
 
-->Scripts/: Folder containing the standalone Python scripts used for the visuals.
-
-->Data/: A link or CSV of the Palmer Penguins dataset.
+**Data:** Palmer Penguins dataset (loaded via pandas within Power BI)
 
 ## *⚙️ Setup Instructions* ##
 
